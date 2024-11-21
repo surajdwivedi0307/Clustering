@@ -1,6 +1,5 @@
 ## Clustering Notebooks and Datasets
 
-This folder contains notebooks and datasets to learn clustering concepts.
 
 ### 1. Product Segmentation
 
