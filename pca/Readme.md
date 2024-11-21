@@ -2,14 +2,14 @@ This folder contains notebooks and datasets to learn dimensionality reduction co
 
 ### 1. Principal Component Analysis
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/ISB_MLUL/blob/main/pca/Singular_Value_Decomposition_v1.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/surajdwivedi0307/UnsupervisedLearning/blob/main/pca/Singular_Value_Decomposition_v1.ipynb)
 
 
 ### 1. Visualizing in 2D
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/ISB_MLUL/blob/main/pca/PCA_Visualization_2D_v1.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/surajdwivedi0307/UnsupervisedLearning/blob/main/pca/PCA_Visualization_2D_v1.ipynb)
 
 
 ### 2. Product Recommendations using Images 
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/manaranjanp/ISB_MLUL/blob/main/pca/Product%20Recommendation%20using%20PCA.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/surajdwivedi0307/UnsupervisedLearning/blob/main/pca/Product%20Recommendation%20using%20PCA.ipynb)
