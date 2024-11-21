@@ -7,7 +7,7 @@
 
 ### 2. Customer Segmentation
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/surajdwivedi0307/UnsupervisedLearning/blob/main/RFM_Segmentation_Analysis_v1.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/surajdwivedi0307/UnsupervisedLearning/blob/main/RFM_Segementation_Analysis_v1.ipynb)
 
 ### 3. Content-Based Clustering with TF-IDF
 
